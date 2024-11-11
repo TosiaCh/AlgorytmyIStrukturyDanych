@@ -1,1 +1,1 @@
-# AlgorytmyIStrukturyDanych
+# AlgorithmsAndDataStructures
